@@ -1,0 +1,12 @@
+Sep 25, 2023 11:21:44 AM utils.Base openBrowser
+INFO: Browser Launched
+Sep 25, 2023 11:21:49 AM utils.Base openBrowser
+INFO: Browser Loaded the URL
+Sep 25, 2023 11:21:50 AM utils.Base ReadData
+INFO: Data Picked from SheetName: Productslist, RowNumber: 1and ColumnName: MobilePhones: Samsung galaxy S23
+Sep 25, 2023 11:21:50 AM utils.Base ReadData
+WARNING: Samsung galaxy S23
+Sep 25, 2023 11:21:50 AM utils.Base ClickOnElement
+INFO: Clicked on 
+Sep 25, 2023 11:21:52 AM utils.Base ClickOnElement
+INFO: Clicked on 
