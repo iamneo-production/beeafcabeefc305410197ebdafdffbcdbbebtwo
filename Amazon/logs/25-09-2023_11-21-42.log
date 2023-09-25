@@ -10,3 +10,11 @@ Sep 25, 2023 11:21:50 AM utils.Base ClickOnElement
 INFO: Clicked on 
 Sep 25, 2023 11:21:52 AM utils.Base ClickOnElement
 INFO: Clicked on 
+Sep 25, 2023 11:21:56 AM utils.Base ClickOnElement
+INFO: Clicked on Samsung Galaxy S23 5G (Phantom Black, 8GB, 256GB Storage)
+Sep 25, 2023 11:21:57 AM pages.SearchResultsPage ClickOnsearchResult
+INFO: product found
+Sep 25, 2023 11:21:57 AM runner.Testcase2 SearchProduct
+INFO: Successfully Asserted for Product Search page
+Sep 25, 2023 11:21:57 AM runner.Testcase2 afterMethod
+INFO: Browser closed
